@@ -1,4 +1,4 @@
-# Cars API
+# Currency API
 Get All Currency Values
 
 # **Requirements :**
